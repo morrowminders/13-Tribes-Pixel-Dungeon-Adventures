@@ -6,7 +6,7 @@
 
 If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/morrowminders)!
 
-Note that **this repository DOES ACCEPT pull requests!** The code here is provided in hopes that others may find it useful for their own projects, and to allow and definitely encourage community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are always welcome.
+Note that **this repository DOES ACCEPT pull requests!** The code here is provided in the hope that others may find it useful for their own projects; and to allow, promote and definitely encourage community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are always welcome.
 
 If you'd like to work with the code, you can find the following guides in `/docs`:
 - [Compiling for Android.](docs/getting-started-android.md)
