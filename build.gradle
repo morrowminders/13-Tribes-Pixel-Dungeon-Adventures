@@ -15,7 +15,7 @@ allprojects {
         appPackageName = 'com.morrowminders.13tribespixeldungeonadventures'
 
         //Full releases gets +2 on version code, needed for an F-Droid quirk
-        appVersionCode = 912
+        appVersionCode = 0001
         appVersionName = '4.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_11
