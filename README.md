@@ -2,8 +2,6 @@
 
 [13 Tribes Pixel Dungeon Adventures](https://shatteredpixel.com/shatteredpd/](https://morrowminders.fandom.com/wiki/The_Thirteen_Tribes_Wiki)) is a collaborative, open-source, open world, story-rich indie roguelike/RPG starring parties of warriors, mages, rogues & priests battling or befriending robots, aliens, monsters & demigods in the cities, ruins and wilderness of Oras-Khai, a world of The Thirteen Tribes.  It's based on the [source code of Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon), by [00-Evan](https://shatteredpixel.com/), which is, in turn, based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [watabou](https://watabou.itch.io/).
 
-13 Tribes Pixel Dungeon Adventures currently compiles for Android, iOS, and Desktop platforms.
-
 If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/morrowminders)!
 
 Note that **this repository DOES ACCEPT pull requests!**  The code here is provided in the hope that others may find it useful for their own projects; and to allow, promote and definitely encourage community contribution. And, of course, Issue reports of all kinds (bug reports, feature requests, etc.) are always welcome.
